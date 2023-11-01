@@ -1,0 +1,28 @@
+:root {
+    --white-color: #fff;
+    --primary-color: #f00000;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inconsolata', monospace;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.mt12 {
+    margin-top: 12px;
+}
+
+.mt16 {
+    margin-top: 16px;
+}
+
+.ptb-6 {
+    padding: 6px 0;
+}

@@ -1,0 +1,21 @@
+/* Tablet and Mobile */
+@media (max-width: 1023px) {
+    #slider {
+        padding-top: 100%;
+    }
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    
+}
+
+/* Mobile */
+@media (max-width: 739px) {
+    #slider {
+        padding-top: 133%;
+    }
+    .slider__time-act {
+        display: none;
+    }
+}
